@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting NeedIt Request type - NeedIt:  Due Monthly</display>
+        <indicator display_value="NeedIt:  Due Monthly">0a59438d83b79a10589fb8c6feaad3cf</indicator>
+        <job display_value="temporary job for collecting NeedIt Request type">351d478183f79a10589fb8c6feaad369</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-17 04:04:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f51d478183f79a10589fb8c6feaad36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt:  Due Monthly.temporary job for collecting NeedIt Request type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_f51d478183f79a10589fb8c6feaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-17 04:04:16</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fc67b058eb77ca183a48f459bad0cd87</instance_id>
+        <instance_name>dev283445</instance_name>
+        <name>pa_job_indicators_f51d478183f79a10589fb8c6feaad36a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>2</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting NeedIt Request type - NeedIt:  Due Monthly</display><indicator display_value="NeedIt:  Due Monthly">0a59438d83b79a10589fb8c6feaad3cf</indicator><job display_value="temporary job for collecting NeedIt Request type">351d478183f79a10589fb8c6feaad369</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-17 04:04:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f51d478183f79a10589fb8c6feaad36a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt:  Due Monthly.temporary job for collecting NeedIt Request type</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_f51d478183f79a10589fb8c6feaad36a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-17 04:04:16</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-1724552942</payload_hash>
+        <record_name>temporary job for collecting NeedIt Request type - NeedIt:  Due Monthly</record_name>
+        <reverted_from/>
+        <source>784d0ff783231210589fb8c6feaad31e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-17 04:04:16</sys_created_on>
+        <sys_id>f91d4fc983f79a10589fb8c6feaad3c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195121402bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-17 04:04:16</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>fd1d4fc9e1f79a1087f4f155b6fd5ec1</update_guid>
+        <update_guid_history>fd1d4fc9e1f79a1087f4f155b6fd5ec1:-1724552942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting NeedIt Request type - ">719ecf89833b9a10589fb8c6feaad358</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-17 04:10:49</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>9381f8b0f7c14d3093b8721eac6f1110</sys_id>
+        <sys_metadata>f51d478183f79a10589fb8c6feaad36a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt:  Due Monthly.temporary job for collecting NeedIt Request type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="temporary job for collecting NeedIt Request type">351d478183f79a10589fb8c6feaad369</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_f51d478183f79a10589fb8c6feaad36a</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_f51d478183f79a10589fb8c6feaad36a">f91d4fc983f79a10589fb8c6feaad3c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-17 04:10:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
